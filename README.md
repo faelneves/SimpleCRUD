@@ -18,3 +18,6 @@ Execute o script em seu banco de dados `user.sql` para criar as tabelas necessá
 ### Passo 4
 
 Execute a aplicação por meio do arquivo ´index.php´;
+
+
+### repositório com a resolução dos exercícios 2 e 3: https://github.com/faelneves/superlogica
